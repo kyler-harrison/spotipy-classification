@@ -1,4 +1,4 @@
-## Classify Spotify Song Data
+## IEEE Computer Society Spring 2021: Spotify Song Classification
 Collect song data from artists and build a few simple classifiers on the data. 
 
 ### To use
